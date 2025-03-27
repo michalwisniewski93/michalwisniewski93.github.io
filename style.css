@@ -75,7 +75,7 @@ section.burger {
         display: none;
     }
 
-    section.show{
+    section.menu.show{
        
     display: block;
     flex-direction: column;
