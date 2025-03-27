@@ -1,6 +1,6 @@
 const iconMenu = document.querySelector('.menuIco')
 const menuSection = document.querySelector('section.menu')
-const sectionmenunavul = document.querySelector('section.menu nav')
+const sectionmenunavul = document.querySelector('section.menu nav ul')
 
 iconMenu.addEventListener('touchstart', (e) => {
     menuSection.classList.toggle('show')
