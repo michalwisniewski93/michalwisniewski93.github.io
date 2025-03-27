@@ -74,6 +74,13 @@ section.burger {
     section.menu {
         display: none;
     }
+
+    section.show{
+       
+    display: block;
+    flex-direction: column;
+
+    }
 }
 
 section.home {
