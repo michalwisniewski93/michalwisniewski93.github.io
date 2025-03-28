@@ -145,6 +145,10 @@ section.home .photo img {
 
 @media (max-width: 600px) {
 
+    aboutmePhoto img{
+        width: 100%;
+    }
+
     projectDescription a {
         display: block;
     }
