@@ -144,6 +144,10 @@ section.home .photo img {
 
 
 @media (max-width: 600px) {
+
+    projectDescription a {
+        display: block;
+    }
     section.home {
         flex-direction: column;
     }
