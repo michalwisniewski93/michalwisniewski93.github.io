@@ -145,11 +145,11 @@ section.home .photo img {
 
 @media (max-width: 600px) {
 
-    aboutmePhoto img{
+    .aboutmePhoto img{
         width: 100%;
     }
 
-    projectDescription a {
+    .projectDescription a {
         display: block;
     }
     section.home {
