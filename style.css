@@ -146,11 +146,13 @@ section.home .photo img {
 @media (max-width: 600px) {
 
     .aboutmePhoto img{
+        height: auto;
         width: 100%;
     }
 
     .projectDescription a {
         display: block;
+        margin-top: 5px;
     }
     section.home {
         flex-direction: column;
