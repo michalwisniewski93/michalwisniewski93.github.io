@@ -532,3 +532,13 @@ section.contact .contactForm form button:hover {
         border: none;
     }
 }
+
+.portfolioItem{
+    display: flex;
+}
+
+.projectPhoto, .projectDescription{
+    flex-basis: 50%;
+}
+
+
