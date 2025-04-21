@@ -502,6 +502,7 @@ section.contact .contactForm form button:hover {
 
 .portfolioItem{
     display: flex;
+    margin-top: 20px;
 }
 
 .projectPhoto, .projectDescription{
