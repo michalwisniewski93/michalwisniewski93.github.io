@@ -328,41 +328,13 @@ section.portfolio h1 {
 }
 
 
-section.portfolio .projectPhoto {
-    flex-basis: 50%;
-
-}
-
-section.portfolio .projectDescription {
-    flex-basis: 50%;
-    text-align: justify;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;
 
 
-}
 
-section.portfolio .projectPhoto img {
-    width: 500px;
-    height: 219px;
-}
 
-@media(max-width: 600px) {
-    section.portfolio {
-        border: none;
-    }
 
-    section.portfolio .projectPhoto {
-        flex-basis: 100%;
 
-    }
 
-    section.portfolio .projectDescription {
-        flex-basis: 100%;
-
-    }
-}
 
 section.portfolio .projectDescription a {
     background-color: rgb(27, 172, 97);
@@ -380,12 +352,7 @@ section.portfolio .projectDescription a:hover {
     color: rgb(27, 172, 97);
 }
 
-@media(max-width: 400px) {
-    section.portfolio .projectPhoto img {
-        width: 200px;
-        height: 88px;
-    }
-}
+
 
 
 section.moreProjects {
