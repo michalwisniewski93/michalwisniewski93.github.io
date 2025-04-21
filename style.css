@@ -508,4 +508,9 @@ section.contact .contactForm form button:hover {
     flex-basis: 50%;
 }
 
+.projectPhoto img {
+    width: 90%;
+    height: auto;
+}
+
 
