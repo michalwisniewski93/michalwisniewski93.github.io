@@ -515,12 +515,9 @@ section.contact .contactForm form button:hover {
 }
 
 @media(max-width: 600px){
-    .projectPhoto{
-    flex-basis: 100%;
-}
-    .projectDescription{
-        flex-basis: 100%;
-    }
+   .portfolioItem{
+       flex-direction: column;
+   }
     .projectPhoto img {
     width: 100%;
     height: auto;
